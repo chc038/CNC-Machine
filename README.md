@@ -25,6 +25,17 @@
 
 # Pictures of some machined parts
 
+<img width="600" alt="Screenshot 2023-11-04 at 9 15 51 PM" src="https://github.com/chc038/CNC-Machine/assets/146500723/6a3b9deb-69ad-4803-96c3-35861255a21b">
+<img width="600" alt="Screenshot 2023-11-04 at 9 16 05 PM" src="https://github.com/chc038/CNC-Machine/assets/146500723/332aaa33-3cfa-4ebe-b3be-c6a429911084">
+<img width="600" alt="Screenshot 2023-11-04 at 9 16 20 PM" src="https://github.com/chc038/CNC-Machine/assets/146500723/fb57503e-02c0-404b-be1d-a50be749b99b">
+<img width="600" alt="Screenshot 2023-11-04 at 9 19 46 PM" src="https://github.com/chc038/CNC-Machine/assets/146500723/7aef0555-b2c2-4b0e-99a7-9b3209a74bfa">
+
+
+**Note:**
+ Some older pictures of the CNC machine in the media folder may look different because of recent upgrades.
+
+
+
 
 
  
