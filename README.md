@@ -1,5 +1,5 @@
 # CNC-Machine
- Repository containing CAD files of my DIY CNC mill
+ Repository containing CAD files of my DIY CNC machine
 
  <img width="461" alt="Screenshot 2023-11-04 at 8 48 28 PM" src="https://github.com/chc038/CNC-Machine/assets/146500723/8a934bf1-6e94-4352-90c4-86928c927776">
 
